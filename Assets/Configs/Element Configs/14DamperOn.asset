@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d302d060b734bd9ac82c98594698004, type: 3}
+  m_Name: 14DamperOn
+  m_EditorClassIdentifier: 
+  Element:
+  - {fileID: 7909583839413007216, guid: 3d5d264bde01e0947ac40b51e20d3fa3, type: 3}
+  TaskText: "\u0417\u0430\u043A\u0440\u044B\u0442\u044C \u0437\u0430\u0441\u043B\u043E\u043D\u043A\u0443"
